@@ -3,6 +3,12 @@
 これはシェルの標準入出力をスタックとして保存・出力できるコマンドラインツールです。     
 シェル芸等にお使いください。
 
+# ダウンロード
+[ダウンロード](https://github.com/PenguinCabinet/Oppai_benchmark/releases/latest)    
+```bash
+go install github.com/PenguinCabinet/IO-Stack
+```
+
 ## 🔨Examples
 ```bash
 >echo A|IO-Stack
