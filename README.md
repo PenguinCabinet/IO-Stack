@@ -52,13 +52,14 @@ B
 ```bash
 >echo A|IO-Stack
 >echo B|IO-Stack
+>IO-Stack 2
 >IO-Stack
 B
 >IO-Stack
 A
 >IO-Stack
 ```
-スタックが空の場合何も出力されません。
+スタックが空の場合もしは範囲外の場合、何も出力されません。
 
 ## 💪Examples(将来)
 将来的にできるようになる機能です。    
